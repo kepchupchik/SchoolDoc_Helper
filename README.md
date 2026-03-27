@@ -42,8 +42,8 @@
    pip install PyQt6
 2. **Клонируйте репозиторий:**
     ```bash
-git clone [https://github.com/kepchupchik/school-docs-helper.git](https://github.com/kepchupchik/school-docs-helper.git)
-cd school-docs-helper
+    git clone [https://github.com/kepchupchik/school-docs-helper.git](https://github.com/kepchupchik/school-docs-helper.git)
+    cd school-docs-helper
 3. **Запустите программу:**
 ``` bash
 python Document.py
