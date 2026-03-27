@@ -46,7 +46,7 @@
     cd school-docs-helper
 3. **Запустите программу:**
 ``` bash
-python Document.py
+   python Document.py
 
 
 🛠 Как пользоваться:
